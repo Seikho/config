@@ -5,4 +5,4 @@ function config(key, value) {
     _config[key] = value;
     return value;
 }
-module.exports = config;
+exports.config = config;
