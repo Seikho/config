@@ -8,6 +8,7 @@
         "./**/*.ts"
     ],
     "files": [
-        "./index.ts"
+        "./index.ts",
+        "./typings/designco/designco-config.d.ts"
     ]
 }
