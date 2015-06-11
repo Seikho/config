@@ -1,0 +1,24 @@
+{
+  "name": "designco-config",
+  "version": "0.1.0",
+  "description": "lightweight configuration storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designco-wa/config.git"
+  },
+  "keywords": [
+    "designco",
+    "config",
+    "portable"
+  ],
+  "author": "Carl Winkler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/designco-wa/config/issues"
+  },
+  "homepage": "https://github.com/designco-wa/config#readme"
+}
