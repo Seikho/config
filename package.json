@@ -1,5 +1,5 @@
 {
-  "name": "designco-config",
+  "name": "ls-config",
   "version": "0.1.0",
   "description": "lightweight configuration storage",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/designco-wa/config.git"
+    "url": "git+https://github.com/longshot-io/config.git"
   },
   "keywords": [
     "designco",
@@ -18,7 +18,7 @@
   "author": "Carl Winkler",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/designco-wa/config/issues"
+    "url": "https://github.com/longshot-io/config/issues"
   },
-  "homepage": "https://github.com/designco-wa/config#readme"
+  "homepage": "https://github.com/longshot-io/config#readme"
 }
