@@ -1,3 +1,4 @@
+import minimist = require("minimist");
 var _config: any = [];
 
 export function config(key: string, value?: string) {
