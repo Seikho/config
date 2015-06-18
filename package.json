@@ -1,6 +1,6 @@
 {
   "name": "ls-config",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "lightweight configuration storage",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/longshot-io/config.git"
   },
   "keywords": [
-    "designco",
+    "longshot",
     "config",
     "portable"
   ],
