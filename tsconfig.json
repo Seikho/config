@@ -8,8 +8,8 @@
         "./**/*.ts"
     ],
     "files": [
-        "./index.ts",
-        "./typings/longshot/config.d.ts.ts",
+        "./src/index.ts",
+        "./typings/longshot/config.d.ts",
         "./typings/minimist/minimist.d.ts"
     ]
 }
