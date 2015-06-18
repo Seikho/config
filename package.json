@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/longshot-io/config/issues"
   },
-  "homepage": "https://github.com/longshot-io/config#readme"
+  "homepage": "https://github.com/longshot-io/config#readme",
+  "dependencies": {
+    "minimist": "^1.1.1"
+  }
 }

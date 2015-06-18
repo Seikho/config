@@ -9,6 +9,7 @@
     ],
     "files": [
         "./index.ts",
-        "./typings/designco/designco-config.d.ts"
+        "./typings/longshot/config.d.ts.ts",
+        "./typings/minimist/minimist.d.ts"
     ]
 }
