@@ -3,7 +3,7 @@ var argv = minimist(process.argv.slice(2));
 
 var _config: any = argv;
 
-export function config(key: string, value?: string) {
+export function config(key: string, value?: any) {
 	if (!value) return _config[key];
 	_config[key] = value;
 	return value;
