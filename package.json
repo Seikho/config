@@ -1,10 +1,11 @@
 {
   "name": "ls-config",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "lightweight configuration storage",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -23,5 +24,8 @@
   "homepage": "https://github.com/longshot-io/config#readme",
   "dependencies": {
     "minimist": "^1.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^1.6.2"
   }
 }
