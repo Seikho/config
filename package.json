@@ -1,6 +1,6 @@
 {
   "name": "ls-config",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "description": "lightweight configuration storage",
   "main": "src/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/longshot-io/config.git"
+    "url": "git+https://github.com/seikho/config.git"
   },
   "keywords": [
     "longshot",
@@ -19,9 +19,9 @@
   "author": "Carl Winkler",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/longshot-io/config/issues"
+    "url": "https://github.com/seikho/config/issues"
   },
-  "homepage": "https://github.com/longshot-io/config#readme",
+  "homepage": "https://github.com/seikho/config#readme",
   "dependencies": {
     "minimist": "^1.1.1"
   },

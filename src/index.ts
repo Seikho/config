@@ -1,10 +1,11 @@
 import minimist = require("minimist");
+import Types = require('../index.d.ts');
 var argv = minimist(process.argv.slice(2));
 
-var _config: any = argv;
+global.$longshot = argv;
 
 export function config(key: string, value?: any) {
-	if (!value) return _config[key];
-	_config[key] = value;
+	if (!value) return global.$longshot[key];
+	global.$longshot[key] = value;
 	return value;
 }
